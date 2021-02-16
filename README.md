@@ -1,2 +1,9 @@
 # FlareNetwork_CaseStudy
-This is a case study homework assignment for the Penn LPS FinTech Bootcamp. The case study covers the Flare Network and it's features.
+
+## Overview and Origin
+
+Flare Network
+
+![Flare Network Logo](flare networks.jpg)
+
+The founders of the Flare Network are Hugo Philion (Co-Founder and CEO) & Sean Rowan (Co-Founder and CTO)
