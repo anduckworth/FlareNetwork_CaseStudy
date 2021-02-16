@@ -4,7 +4,7 @@
 
 Flare Network
 
-![Flare](flare_networks.jpg)
+![Flare](flare networks.jpg)
 
 Incorporated in 2019
 
@@ -16,3 +16,4 @@ Flare Network has only been through one funding round. It was a Venture funding,
 
 ## Business Activities
 
+Flare Network aims to solve two problems that are currently present in competitor blockchain networks. The first problem is that 75% of the value that exists in current public blockchains cannot be used in a trustless manner with smart contracts, so Flare's objective is to unlock this value. The second problem is scalability of a blockchain network. Currently, the most scalable solution is proof of stake or it's variants. The main issue with proof of stake is that the consensus protocol design does not yet readily allow alternate uses of the native token in a safe manner.
