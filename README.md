@@ -4,7 +4,7 @@
 
 Flare Network
 
-! [Flare](flare networks.jpg)
+![Flare](flare_networks.jpg)
 
 Incorporated in 2019
 
