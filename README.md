@@ -40,3 +40,10 @@ Overall, it appears that the Flare Network will outperform other blockchain netw
 
 ## Recommendations
 
+Since the Flare Network is naturally inflationary due to the daily rewards distributed to participants' voting on FTSO accuracy, I believe it would be meaningful to create a credit card that enables the user to earn additional spark tokens with purchases.
+
+This would benefit the company by creating more awareness for the utility of the spark token. If the regular consumer can go out and buy their every day items as they normally would, while earning spark tokens, it would promote growth of the network. This would foster an even stronger consensus based on voting, as well as generate more users for the Spark Dependent Applications.
+
+Spark has hired software engineers from Towo labs to create a wallet that could hold spark tokens and the wrapped assets to create ease of use. The credit card could be integrated to this function and allow participants to pay off their credit lines with fiat or cryptocurrency while earning their rewards.
+
+The integration of credit to the upcoming wallet would be appropriate because it would essentially create a decentralized banking function for the Flare Network.
