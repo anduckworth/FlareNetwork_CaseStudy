@@ -50,7 +50,7 @@ The integration of credit to the upcoming wallet would be appropriate because it
 
 ### Resources
 
-[Flare Network White Paper](file:///C:/Users/anduc/Downloads/Flare_Version_1.0%20whitepaper.pdf)
+[Flare Network White Paper](https://flare.xyz/app/uploads/2020/08/flare_v1.1.pdf)
 
 [2019 Royal Society Hugo Philion Lecture](https://www.youtube.com/watch?v=JL0DPnYzl40)
 
